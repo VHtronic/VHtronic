@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 Student of Czech Technical University - Faculty of Electronic Engineering
+
 Maker / Hobbyist
 
 
